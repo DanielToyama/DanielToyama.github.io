@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://DanielToyama.github.io/blog</id>
+    <title>户山兔兔の小家 Blog</title>
+    <updated>2024-02-16T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://DanielToyama.github.io/blog"/>
+    <subtitle>户山兔兔の小家 Blog</subtitle>
+    <icon>https://DanielToyama.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[突发奇想]]></title>
+        <id>https://DanielToyama.github.io/blog/突发奇想</id>
+        <link href="https://DanielToyama.github.io/blog/突发奇想"/>
+        <updated>2024-02-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[有时候会觉得网上的那些大佬们有一个自己的网站，发关于自己的动态，心得和分享。]]></summary>
+        <content type="html"><![CDATA[<p>有时候会觉得网上的那些大佬们有一个自己的网站，发关于自己的动态，心得和分享。</p>
+<p>其实这挺酷的，于是我决定自己也弄一个这样的东西（</p>]]></content>
+        <author>
+            <name>Daniel</name>
+        </author>
+    </entry>
+</feed>
