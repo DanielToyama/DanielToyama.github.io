@@ -2,21 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://DanielToyama.github.io/blog</id>
     <title>户山兔兔の小家 Blog</title>
-    <updated>2024-02-16T00:00:00.000Z</updated>
+    <updated>2024-02-16T19:46:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://DanielToyama.github.io/blog"/>
     <subtitle>户山兔兔の小家 Blog</subtitle>
     <icon>https://DanielToyama.github.io/img/favicon.ico</icon>
     <entry>
+        <title type="html"><![CDATA[唉，腾讯]]></title>
+        <id>https://DanielToyama.github.io/blog/又得大改雪绘了</id>
+        <link href="https://DanielToyama.github.io/blog/又得大改雪绘了"/>
+        <updated>2024-02-16T19:46:00.000Z</updated>
+        <summary type="html"><![CDATA[◆二期QQ频道改版时间和范围]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>◆二期QQ频道改版时间和范围
+2月22日-2月27日
+2月22日起开始大范围灰度，2月27日全量（就是全体用户都这样）</p>
+</blockquote>
+<p>QQ终于是要对频道动手了，存在这么久的一个类dc的平台说没就没，又是对Bot开发者和我们频道维护者的一次背刺qwq</p>
+<p>说实话QQ的频道现在做的也算是同类app里面做的比较好的，可惜说砍就砍了。</p>
+<p>雪绘Bot的未来看来还是要像早期一样回归群聊，目前比较看好的方案是qqnt，希望不要轻易寄了</p>]]></content>
+        <author>
+            <name>兔兔</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[突发奇想]]></title>
         <id>https://DanielToyama.github.io/blog/突发奇想</id>
         <link href="https://DanielToyama.github.io/blog/突发奇想"/>
-        <updated>2024-02-16T00:00:00.000Z</updated>
+        <updated>2024-02-16T04:30:00.000Z</updated>
         <summary type="html"><![CDATA[有时候会觉得网上的那些大佬们有一个自己的网站，发关于自己的动态，心得和分享。]]></summary>
         <content type="html"><![CDATA[<p>有时候会觉得网上的那些大佬们有一个自己的网站，发关于自己的动态，心得和分享。</p>
 <p>其实这挺酷的，于是我决定自己也弄一个这样的东西（</p>]]></content>
         <author>
-            <name>Daniel</name>
+            <name>兔兔</name>
         </author>
     </entry>
 </feed>
