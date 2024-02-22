@@ -4,10 +4,33 @@
         <title>户山兔兔の小家 Blog</title>
         <link>https://DanielToyama.github.io/blog</link>
         <description>户山兔兔の小家 Blog</description>
-        <lastBuildDate>Fri, 16 Feb 2024 19:46:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Feb 2024 14:30:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
+        <item>
+            <title><![CDATA[雪绘的未来规划]]></title>
+            <link>https://DanielToyama.github.io/blog/支持群聊的雪绘的发展方向</link>
+            <guid>https://DanielToyama.github.io/blog/支持群聊的雪绘的发展方向</guid>
+            <pubDate>Thu, 22 Feb 2024 14:30:00 GMT</pubDate>
+            <description><![CDATA[QQ频道的变动的闹剧算是尘埃落定，决定新频道样式和聊天区保持共存了。]]></description>
+            <content:encoded><![CDATA[<p>QQ频道的变动的闹剧算是尘埃落定，决定新频道样式和聊天区保持共存了。</p>
+<p>同时我为了雪绘的发展，决定推出雪绘的群聊Ver.在群聊和频道同时存在的情况下，两边的用户信息如何保持一致，是一个亟待解决的好问题。</p>
+<p>雪绘的查分数据库和抽牌等娱乐功能，都是由雪绘团队的黑糖开发的Python客户端，通过API进行交流与沟通。用户管理部分首先就要从他这一部分来入手：黑糖数据处理的部分都是基于频道号来解决。目前他学业繁忙，为了尽可能减轻他的压力，因此适配工作应该从我这头做起。</p>
+<p>目前我提出的方案是在我的程序中，将所有的QQ号和频道号相对应。这样就能够做到黑糖那边尽可能在不改动达成兼容所有用户的效果。</p>
+<p>如:</p>
+<blockquote>
+<p>QQ端获取到的qq———&gt;查询是否绑定———&gt;已绑定，传回频道号给黑糖</p>
+</blockquote>
+<blockquote>
+<p>QQ端获取到的qq———&gt;查询是否绑定———&gt;未绑定，虚拟一个频道号，如“Qxxxxxxxxx”（为了方便，xxxxx直接使用QQ号即可）</p>
+</blockquote>
+<p>这样，就能达到每一个人都能够共享两端的信息同步。也便于多平台的整合，倘若需要重新绑定频道，直接替换Qxxxx为频道号即可</p>
+<p>因此还需要黑糖做一把个两个id信息合并的接口。</p>
+<p>目前技术力只能想到这样快速迁移的方案了，先将就使用吧。</p>]]></content:encoded>
+            <category>闲谈</category>
+            <category>开发</category>
+        </item>
         <item>
             <title><![CDATA[唉，腾讯]]></title>
             <link>https://DanielToyama.github.io/blog/又得大改雪绘了</link>
@@ -22,6 +45,7 @@
 <p>QQ终于是要对频道动手了，存在这么久的一个类dc的平台说没就没，又是对Bot开发者和我们频道维护者的一次背刺qwq</p>
 <p>说实话QQ的频道现在做的也算是同类app里面做的比较好的，可惜说砍就砍了。</p>
 <p>雪绘Bot的未来看来还是要像早期一样回归群聊，目前比较看好的方案是qqnt，希望不要轻易寄了</p>]]></content:encoded>
+            <category>闲谈</category>
         </item>
         <item>
             <title><![CDATA[突发奇想]]></title>
@@ -31,6 +55,7 @@
             <description><![CDATA[有时候会觉得网上的那些大佬们有一个自己的网站，发关于自己的动态，心得和分享。]]></description>
             <content:encoded><![CDATA[<p>有时候会觉得网上的那些大佬们有一个自己的网站，发关于自己的动态，心得和分享。</p>
 <p>其实这挺酷的，于是我决定自己也弄一个这样的东西（</p>]]></content:encoded>
+            <category>闲谈</category>
         </item>
     </channel>
 </rss>
