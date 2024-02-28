@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://DanielToyama.github.io/blog</id>
     <title>户山兔兔の小家 Blog</title>
-    <updated>2024-02-22T14:30:00.000Z</updated>
+    <updated>2024-02-29T03:02:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://DanielToyama.github.io/blog"/>
     <subtitle>户山兔兔の小家 Blog</subtitle>
     <icon>https://DanielToyama.github.io/img/favicon.ico</icon>
     <entry>
+        <title type="html"><![CDATA[乐]]></title>
+        <id>https://DanielToyama.github.io/blog/2024-02-29T03:02</id>
+        <link href="https://DanielToyama.github.io/blog/2024-02-29T03:02"/>
+        <updated>2024-02-29T03:02:00.000Z</updated>
+        <summary type="html"><![CDATA[《36KB》]]></summary>
+        <content type="html"><![CDATA[<p>《36KB》</p>
+<p>不管怎么说，能用就是成功</p>
+<p><img decoding="async" loading="lazy" src="https://danieltoyama.github.io/assets/images/pic-66d4d7633232d55a50ec3419b6b4aa9c.jpg" width="604" height="169" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>兔兔</name>
+        </author>
+        <category label="闲谈" term="闲谈"/>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[雪绘的未来规划]]></title>
-        <id>https://DanielToyama.github.io/blog/支持群聊的雪绘的发展方向</id>
-        <link href="https://DanielToyama.github.io/blog/支持群聊的雪绘的发展方向"/>
+        <id>https://DanielToyama.github.io/blog/2024-02-22T14:30</id>
+        <link href="https://DanielToyama.github.io/blog/2024-02-22T14:30"/>
         <updated>2024-02-22T14:30:00.000Z</updated>
         <summary type="html"><![CDATA[QQ频道的变动的闹剧算是尘埃落定，决定新频道样式和聊天区保持共存了。]]></summary>
         <content type="html"><![CDATA[<p>QQ频道的变动的闹剧算是尘埃落定，决定新频道样式和聊天区保持共存了。</p>
@@ -35,8 +49,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[唉，腾讯]]></title>
-        <id>https://DanielToyama.github.io/blog/又得大改雪绘了</id>
-        <link href="https://DanielToyama.github.io/blog/又得大改雪绘了"/>
+        <id>https://DanielToyama.github.io/blog/2024-02-16T19:46</id>
+        <link href="https://DanielToyama.github.io/blog/2024-02-16T19:46"/>
         <updated>2024-02-16T19:46:00.000Z</updated>
         <summary type="html"><![CDATA[◆二期QQ频道改版时间和范围]]></summary>
         <content type="html"><![CDATA[<blockquote>
@@ -54,8 +68,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[突发奇想]]></title>
-        <id>https://DanielToyama.github.io/blog/突发奇想</id>
-        <link href="https://DanielToyama.github.io/blog/突发奇想"/>
+        <id>https://DanielToyama.github.io/blog/2024-02-16T04:30</id>
+        <link href="https://DanielToyama.github.io/blog/2024-02-16T04:30"/>
         <updated>2024-02-16T04:30:00.000Z</updated>
         <summary type="html"><![CDATA[有时候会觉得网上的那些大佬们有一个自己的网站，发关于自己的动态，心得和分享。]]></summary>
         <content type="html"><![CDATA[<p>有时候会觉得网上的那些大佬们有一个自己的网站，发关于自己的动态，心得和分享。</p>
