@@ -43,12 +43,12 @@
 <p>获取到的就是你的磁盘名，你的可能和我不一样</p>
 <p>使用命令开始分盘：</p>
 <div class="language-sh codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-sh codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">sm partition disk:179,32 mixed 40</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="复制代码到剪贴板" title="复制" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
-<p>这个地方的mixed 50代表留下40%的空间用来留给文件，60%存软件，你可以根据自己的喜好来决定这个内存，然后这个地方要写你的磁盘名，我的可能和你不一样</p>
+<p>这个地方的mixed 40代表留下40%的空间用来留给文件，60%存软件，你可以根据自己的喜好来决定这个内存，然后这个地方要写你的磁盘名，我的可能和你不一样</p>
 <p>执行完会稍微有一小段停顿，意味着正在执行。出来下一行命令开始让你输入时候就意味着代码已经执行完毕了，可以前往设置看看有没有成功了</p>
 <p>然后的话...如果你运气好，可能可以看见手机的设置出现了移动app到内存卡，那就可以直接移动了。运气不好的，可以尝试使用“打开快捷方式app”，然后显示系统应用，设置，存储（或者类似的词）看看能不能调用软件移动的接口。你可能还需要前往开发者模式，翻到最底下，然后打开强制允许将应用写入外部存储设备。大概就是这样。</p>
 <p>再不行的话...也许你应该使用命令</p>
 <div class="language-sh codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-sh codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">sm partition disk:179,32 public</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="复制代码到剪贴板" title="复制" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
-<p>来让他回到一张正常的sd卡，还是放过他吧————还有不要忘记把磁盘名字改成你自己的磁盘名字！</p>]]></content:encoded>
+<p>来让他回到一张正常的sd卡，还是放过他吧————不过不要忘记把磁盘名字改成你自己的磁盘名字！</p>]]></content:encoded>
             <category>Android</category>
             <category>技术</category>
         </item>
