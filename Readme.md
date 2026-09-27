@@ -1,3 +1,3 @@
-我的个人网站是[DanielToyama.fun](https://danieltoyama.fun/)!
+我的个人网站是[Danieluul.top](https://danieluu.top/)!
 
 欢迎各位的来访！！
